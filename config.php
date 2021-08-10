@@ -7,8 +7,8 @@ $itemPrice = 100;
 $currency = "USD"; 
  
 // Stripe API configuration  
-define('STRIPE_API_KEY', 'sk_test_51HI0dXFM6GJzEqOTyJPNLIevfsrhXXDgyaGUtvGMkIv8QL7Ckn4s0EdjkZZciLJR0piTvCDlzkE8Xi0fA9D9vmlr00itBO9bkB'); 
-define('STRIPE_PUBLISHABLE_KEY', 'pk_test_51HI0dXFM6GJzEqOTGU0VkLhjFJ4Yrgm8xEYeb1WOZcsKvXCvFMXDOnuYXulilaw7iRiky0kD9nZ54ZdIyxgqbbs500CdUgwV7V'); 
+define('STRIPE_API_KEY', ' '); 
+define('STRIPE_PUBLISHABLE_KEY', ''); 
   
 // Database configuration  
 define('DB_HOST', 'localhost'); 
