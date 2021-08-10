@@ -9,6 +9,8 @@ Open config.php and add you stripe_published_key and stripe_secret_key
 
 
 Create Your Database in mysql and run this query
+
+
 CREATE TABLE `orders` (
   `id` int(11) NOT NULL,
   `name` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
