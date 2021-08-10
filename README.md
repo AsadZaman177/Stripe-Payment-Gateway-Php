@@ -1,6 +1,13 @@
 # Stripe-Payment-Gateway-Php
+
+
+
 Complete Working Stripe Payment Gateway in Php.
+
+
 Open config.php and add you stripe_published_key and stripe_secret_key 
+
+
 Create Your Database in mysql and run this query
 CREATE TABLE `orders` (
   `id` int(11) NOT NULL,
